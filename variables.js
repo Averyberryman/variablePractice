@@ -2,7 +2,7 @@
 
 var email = "averyberryman@gmail.com"
 var mynameis = "averyBerryman"
-var favorite color = "celticsGreen"
+var favoriteColor = "celticsGreen"
 
 # number variables
 
@@ -20,5 +20,8 @@ favorite color = "purple"
 email = "averyberryman@hotmail.com"
 mynameis = "averyHiltonBerryman"
 
+console.log(isSleepy)
+console.log (height)
+console.log (favoriteColor)
 
 
