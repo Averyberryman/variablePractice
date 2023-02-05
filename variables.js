@@ -17,7 +17,7 @@ favorite color = "purple"
 email = "averyberryman@hotmail.com"
 mynameis = "averyHiltonBerryman"
 
-console.log(isSleepy)
+console.log (isSleepy)
 console.log (height)
 console.log (favoriteColor)
 
