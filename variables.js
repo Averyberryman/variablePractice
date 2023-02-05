@@ -1,7 +1,7 @@
 # string variables
 
 var email = "averyberryman@gmail.com"
-var name = "averyBerryman"
+var mynameis = "averyBerryman"
 var favorite color = "celticsGreen"
 
 # number variables
@@ -15,3 +15,10 @@ var weight = 175
 var isSleepy = false
 var isReadyForGym = true
 var isHappy = true
+
+favorite color = "purple"
+email = "averyberryman@hotmail.com"
+mynameis = "averyHiltonBerryman"
+
+
+
