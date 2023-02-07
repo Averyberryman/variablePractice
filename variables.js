@@ -13,12 +13,12 @@ var isSleepy = false
 var isReadyForGym = true
 var isHappy = true
 
-favorite color = "purple"
+favoriteColor = "purple"
 email = "averyberryman@hotmail.com"
-mynameis = "averyHiltonBerryman"
+myNameIs = "averyHiltonBerryman"
 
-console.log (isSleepy)
-console.log (height)
-console.log (favoriteColor)
+console.log(isSleepy)
+console.log(height)
+console.log(favoriteColor)
 
 
